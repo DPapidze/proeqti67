@@ -1,0 +1,17 @@
+.d1{
+    width: 1280px;
+    height: 311px;
+    background-color: #710000;
+    position:relative;
+}
+.d2{
+    width: 1280px;
+    height: 832px;
+    background-color: #404040;
+ 
+}
+.d3{
+    position: absolute;
+    padding-left: 68px;
+    padding-top: 209px;
+}
